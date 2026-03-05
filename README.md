@@ -12,7 +12,7 @@ Follow these steps to run the project locally on your machine:
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/nelsonlaidev/zsh-web.git
+git clone https://github.com/braviadev/zsh-web.git
 ```
 
 2. Navigate to the project directory.
@@ -55,5 +55,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-Made with ❤️ in Hong Kong
+Made with Passion and Love from Nigeria
 </p>
