@@ -1,5 +1,5 @@
-export const TTY_NAME = 'ttys001'
+export const TTY_NAME = 'bravia'
 export const USERNAME = 'user'
-export const HOSTNAME = 'zsh-nelsonlai-dev'
+export const HOSTNAME = 'zsh-bravia-dev'
 export const DB_NAME = 'zsh-web'
 export const HOME = '/Users/user'
